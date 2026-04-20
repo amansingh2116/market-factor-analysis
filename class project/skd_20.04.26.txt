@@ -1,0 +1,10 @@
+Professor’s feedback from the presentation
+
+1) Use reliable sources only.
+Do not rely on internet explanations, YouTube videos, or blog-style sources such as “Stanford guy” blogs. Prefer standard textbooks, research papers, and properly established references.
+2) Keep the method simple first.
+Before using advanced tools, make sure the basics are completely clear. Be able to explain what is really happening, what the assumptions are, why the method is valid, and what its limitations and corner cases are.
+3) Be careful with PCA interpretation.
+If applying PCA to a return matrix of stocks, be clear about what that means, what the output represents, and how it should be interpreted economically. Do not confuse PCA with factor analysis unless you can justify the distinction properly.
+4) Do not overstate structural change.
+Claims about “structural change” after COVID are delicate and belong to change-point detection / regime-shift type analysis. If using a test, know its assumptions, meaning, and limitations before concluding anything. Otherwise the conclusion may be too strong or unsupported.
