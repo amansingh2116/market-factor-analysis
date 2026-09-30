@@ -1,0 +1,8 @@
+{
+  "download_date": "2026-09-30T10:55:16.808773",
+  "start": "2015-01-01",
+  "end": "2026-04-10",
+  "n_tickers_requested": 133,
+  "n_tickers_retrieved": 133,
+  "yfinance_version": "0.2.64"
+}

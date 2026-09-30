@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — keep parquet (frozen snapshot) but exclude large raw downloads
+# data_cache_v2/prices_raw.parquet is intentionally tracked (reproducibility anchor)
+# Exclude any future large raw files
+data_cache_v2/*.csv
+data_cache_v2/*.hdf5
+data_cache_v2/*.h5
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
